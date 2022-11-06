@@ -1,0 +1,130 @@
+nav {
+  background-color: #886BB0;
+}
+
+.nav-btns {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.nav-btns a {
+  color: white;
+}
+
+.nav-btns img {
+  height: 40px;
+  width: 40px;
+}
+
+#logo-img {
+  height: 40px;
+  width: 40px;
+}
+
+.introduction {
+  width: 100vw;
+  background-color: #F2F2F2;
+}
+
+.introduction div {
+  margin: 20px;
+}
+
+.myportry {
+  text-align: center;
+  
+}
+
+.myportry img {
+  width: 300px;
+  height: 300px;
+  object-fit: scale-down;
+  border-radius: 50%;
+  border: solid 1px pink;
+}
+
+.projects, .skills {
+  width: 70vw;
+  margin: auto;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.projects .card {
+  margin: 10px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.links {
+  margin: 10px;
+}
+
+.links a {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  background-color: lightgrey;
+  padding: 12px;
+}
+
+.links i {
+  font-size: 20px;
+}
+
+.skills {
+  margin-bottom: 100px;
+}
+
+.skills div{
+  display: inline-block;
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  padding: 15px;
+  margin: 10px;
+  background-color: #F2F2F2;
+  border: solid 2px rgb(118, 118, 118);
+}
+
+footer {
+  background-color: #BB95EB;
+}
+
+.skills img {
+  width: 80px;
+  height: 80px;
+}
+
+.footer-text {
+  margin-top: auto;
+  margin-bottom: auto;
+  text-align: center;
+}
+
+footer img {
+  height: 24px;
+  width: 24px;
+}
+
+.anchor {
+  padding-top: 80px;
+  margin-top: -60px;
+}
+
+.justify p {
+  text-align: justify;
+}
+
+.show {
+  display: block;
+}
+
+.grid-github {
+  font-size: 2rem;
+  vertical-align: bottom;
+  margin-left: 5px;
+}
